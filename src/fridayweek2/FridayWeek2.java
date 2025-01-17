@@ -17,6 +17,8 @@ public class FridayWeek2 {
         // TODO code application logic here
         
         System.out.print("hi");
+        
+        //changed comment
     }
     
 }
